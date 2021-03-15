@@ -10,7 +10,7 @@
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-success">
             <div class="container-fluid">
-              <a class="navbar-brand" href="index.php">RCSS</a>
+              <a class="navbar-brand" href="index.php">Rajagiri</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -20,7 +20,7 @@
                     <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="galary.php">Gallary</a>
+                    <a class="nav-link" href="galary.php">Gallery</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="aboutdepartment.php">Department</a>
@@ -32,7 +32,7 @@
                       <li><a class="dropdown-item" href="studentlogin.php">Student Login</a></li>
                       <li><a class="dropdown-item" href="facultylogin.php">Faculty login</a></li>
                       <li><hr class="dropdown-divider"></li>
-                      <li><a class="dropdown-item" href="galary.php">Photo Galary</a></li>
+                      <li><a class="dropdown-item" href="galary.php">Photo Gallery</a></li>
                     </ul>
                   </li>
                   <li class="nav-item">
@@ -158,7 +158,7 @@ Careers<br>
                    <center>Welcome To Rajagiri</center> 
                 </h3>
                 
-                <center><img height="30px" src="images\tuxpi.com.1550751743.jpg" class="img-fluid" alt="..."></center>
+                <center><img height="30px" src="http://4.bp.blogspot.com/-YvmwslvbKfk/U-JVfTNq7KI/AAAAAAAAAJ8/QpYL8ukiavk/s1600/10547244_10203149569273273_8210486831206887788_o.jpg" class="img-fluid" alt="..."></center>
                 <p></p>
                 Rajagiri College of Social Sciences (RCSS), together with its sister educational concerns, owes its existence to the CMI (Carmelites of Mary Immaculate) fathers, the first ever indigenous religious congregation for men in the Syrian Catholic tradition of Christianity in India. The CMIs drawing inspiration from their founding father St. Kuriakose Elias Chavara, a great visionary, reformer and religious leader of the 19th century, have proven themselves worthy of that heritage in the field of education by establishing institutions of excellence imparting quality education, across the length and breadth of the State, and in various parts of India. At present, the CMIs manage a network of more than 800 Schools, 13 Special Schools, 41 Arts, Science, Commerce & Physical Education Colleges, 10 B.Ed. Colleges, 4 Nursing Colleges, 4 Engineering Colleges, one Medical College, one University, 3 Law Colleges, 6 Research Centres, 7 Technical Institutes, 41 Hostels & Boarding Houses, 17 Cultural Centres, 2 Super Speciality Hospitals and 114 Non-formal Education Centres.  
                 </p>
