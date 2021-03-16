@@ -87,13 +87,13 @@
                 </div>
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img height="700px" src="https://rajagiri.edu/uploads/home-banner/5/5.jpg" class="d-block w-100" alt="...">
+                    <img height="500" src="https://rajagiri.edu/uploads/home-banner/5/5.jpg" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
-                    <img height="700px" src="https://lh3.googleusercontent.com/proxy/AfRO0APD8q--yRpQbsWcioh27KsHzp7fQlN_k5fVstykp6jpJFIhcmJ2xmWnYpzPOgmjGGdTseDYKOfKKlEg89-ZvPM4NGYaYtrF" class="d-block w-100" alt="...">
+                    <img height="500" src="https://lh3.googleusercontent.com/proxy/AfRO0APD8q--yRpQbsWcioh27KsHzp7fQlN_k5fVstykp6jpJFIhcmJ2xmWnYpzPOgmjGGdTseDYKOfKKlEg89-ZvPM4NGYaYtrF" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
-                    <img height="700px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XB5_MxQ1GHXWPk6hDpBkhDCTfSsj4256H7L4IuIqLLvEaADHwPAsD8UEaEEoJDVvnoU&usqp=CAU" class="d-block w-100" alt="...">
+                    <img height="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XB5_MxQ1GHXWPk6hDpBkhDCTfSsj4256H7L4IuIqLLvEaADHwPAsD8UEaEEoJDVvnoU&usqp=CAU" class="d-block w-100" alt="...">
                   </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"  data-bs-slide="prev">
